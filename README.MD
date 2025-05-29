@@ -20,15 +20,15 @@ Además, el componente soporta un `<slot name="description">` para insertar cont
 
 ## Capturas de pantalla del componente en uso
 
-![Captura 1](./img/Event-Prom.png)
+![Captura 1](./EventPromo-MathiasGualpa/img/Event-Prom.png)
 
 En la primera captura podermos ver el uso del componente creado
 
-![Captura 2](./img/Even-Promuso.png)
+![Captura 2](./EventPromo-MathiasGualpa/img/Even-Promuso.png)
 
 En la segunda captura podemos ver que si quitamos el titulo nos sale como esta definido en el componente que creamos es decir el event-prom.js
 
-![Captura 3](./img/Slot.png)
+![Captura 3](./EventPromo-MathiasGualpa/img/Slot.png)
 
 En la tercera captura podemos ver el uso de los slot donde tienen nombre como title,date,location y description
 
